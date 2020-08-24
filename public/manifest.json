@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Lazy Load @ Infinite Scroll",
   "icons": [
     {
       "src": "favicon.ico",
